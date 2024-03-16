@@ -6,8 +6,8 @@ import Faraaz from './FunctionCompoment/Faraaz';
 function App() {
   return (
     <>
-
     <Faraaz/>
+    
     </>
 
     // <div className="App">
